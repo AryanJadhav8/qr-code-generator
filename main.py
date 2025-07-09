@@ -4,7 +4,7 @@ data = input("Enter the text or URL to encode in a QR Code:")
 
 qr = qrcode.QRCode(
     version = 1,
-    box_size = 15, #15x15 pixels per box
+    box_size = 10, #15x15 pixels per box
     border = 5
 )
 
