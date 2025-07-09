@@ -56,9 +56,8 @@ qr-code-generator/
 ├── example.png          # Sample QR code output
 └── README.md            # Project documentation
 ```
-👨‍💻 Author
+### 👨‍💻 Author
 Made with ❤️ by Aryan Jadhav
---- 
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
