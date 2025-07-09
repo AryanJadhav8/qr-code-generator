@@ -26,3 +26,15 @@ A simple Python app that generates a QR code from any text or URL.
 ```bash
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
+
+## 📦 Dependencies
+
+This project requires the following Python packages:
+
+- `qrcode` (for generating QR codes)
+- `Pillow` (for image processing — automatically installed with qrcode)
+
+### 📥 To install all dependencies, run:
+
+```bash
+pip install -r requirements.txt
